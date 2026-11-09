@@ -4,12 +4,10 @@
 
 <h1 align="center">ようこそ!</h1>
 
----
-
 ## About Me
 
 I like building personal software to meet my own needs, automating
-repetitive tasks, and occasionally simplifying command-line workflows
+repetitive tasks, and sometimes simplifying command-line workflows
 through graphical interfaces.
 
 ## Technologies
@@ -24,13 +22,6 @@ through graphical interfaces.
   <img src="https://img.shields.io/badge/-Bash-181717?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white&amp;labelColor=4EAA25" alt="Bash">
   <img src="https://img.shields.io/badge/-Git-181717?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=F05032" alt="Git">
 </p>
-
-## Current Focus
-
-- Building useful personal software with C++ and Java
-- Learning Qt and QML through practical projects
-- Creating graphical interfaces for command-line workflows
-- Improving Linux automation with Bash
 
 ## Stats
 
